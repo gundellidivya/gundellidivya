@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya Gundelli</h1>
-<h3 align="center">CSE-Data Science Student| Enthusiast of Web development & Data Analytics</h3>
+<h3 align="center">CSE-Data Science Student | Enthusiast of Web development & Data Analytics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gundellidivya&label=Profile%20views&color=0e75b6&style=flat" alt="gundellidivya" /> </p>
 
@@ -9,6 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/divya-gundelli-093245259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya-gundelli-093245259" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/divyasri30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divyasri30" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
