@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Divya Gundelli</h1>
-<h3 align="center">CSE-Data Science Student | Enthusiast of Web development & Data Analytics</h3>
+<h3 align="center">CSE-Data Science Student|Enthusiast of Web development & Data Analytics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gundellidivya&label=Profile%20views&color=0e75b6&style=flat" alt="gundellidivya" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gundellidivya" alt="gundellidivya" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://divyagundelli-portfolio.netlify.app/](https://divyagundelli-portfolio.netlify.app/)
 
